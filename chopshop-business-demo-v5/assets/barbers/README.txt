@@ -1,0 +1,1 @@
+Add approved barber portraits here, named exactly: chris.jpg, junior.jpg, samuel.jpg, sam.jpg, mando.jpg. Portraits appear automatically on Home and Services & Barbers. Recommended portrait crop: 4:5 or 1:1, at least 800 px wide. Until each file is added, the initial-letter placeholder shows instead.
