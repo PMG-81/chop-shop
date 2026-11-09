@@ -1,0 +1,226 @@
+{
+  "chris": {
+    "name": "Chris",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/chris.jpg",
+    "portfolio": [
+      "assets/barbers/chris-work-1.jpg",
+      "assets/barbers/chris-work-2.jpg",
+      "assets/barbers/chris-work-3.jpg",
+      "assets/barbers/chris-work-4.jpg"
+    ]
+  },
+  "junior": {
+    "name": "Junior",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/junior.jpg",
+    "portfolio": [
+      "assets/barbers/junior-work-1.jpg",
+      "assets/barbers/junior-work-2.jpg",
+      "assets/barbers/junior-work-3.jpg",
+      "assets/barbers/junior-work-4.jpg"
+    ]
+  },
+  "samuel": {
+    "name": "Samuel",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/samuel.jpg",
+    "portfolio": [
+      "assets/barbers/samuel-work-1.jpg",
+      "assets/barbers/samuel-work-2.jpg",
+      "assets/barbers/samuel-work-3.jpg",
+      "assets/barbers/samuel-work-4.jpg"
+    ]
+  },
+  "sam": {
+    "name": "Sam",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/sam.jpg",
+    "portfolio": [
+      "assets/barbers/sam-work-1.jpg",
+      "assets/barbers/sam-work-2.jpg",
+      "assets/barbers/sam-work-3.jpg",
+      "assets/barbers/sam-work-4.jpg"
+    ]
+  },
+  "mando": {
+    "name": "Mando",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/mando.jpg",
+    "portfolio": [
+      "assets/barbers/mando-work-1.jpg",
+      "assets/barbers/mando-work-2.jpg",
+      "assets/barbers/mando-work-3.jpg",
+      "assets/barbers/mando-work-4.jpg"
+    ]
+  },
+  "mac": {
+    "name": "Mac",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/mac.jpg",
+    "portfolio": [
+      "assets/barbers/mac-work-1.jpg",
+      "assets/barbers/mac-work-2.jpg",
+      "assets/barbers/mac-work-3.jpg",
+      "assets/barbers/mac-work-4.jpg"
+    ]
+  },
+  "joey": {
+    "name": "Joey",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/joey.jpg",
+    "portfolio": [
+      "assets/barbers/joey-work-1.jpg",
+      "assets/barbers/joey-work-2.jpg",
+      "assets/barbers/joey-work-3.jpg",
+      "assets/barbers/joey-work-4.jpg"
+    ]
+  },
+  "angel": {
+    "name": "Angel",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/angel.jpg",
+    "portfolio": [
+      "assets/barbers/angel-work-1.jpg",
+      "assets/barbers/angel-work-2.jpg",
+      "assets/barbers/angel-work-3.jpg",
+      "assets/barbers/angel-work-4.jpg"
+    ]
+  },
+  "austin": {
+    "name": "Austin",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/austin.jpg",
+    "portfolio": [
+      "assets/barbers/austin-work-1.jpg",
+      "assets/barbers/austin-work-2.jpg",
+      "assets/barbers/austin-work-3.jpg",
+      "assets/barbers/austin-work-4.jpg"
+    ]
+  },
+  "jay": {
+    "name": "Jay",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/jay.jpg",
+    "portfolio": [
+      "assets/barbers/jay-work-1.jpg",
+      "assets/barbers/jay-work-2.jpg",
+      "assets/barbers/jay-work-3.jpg",
+      "assets/barbers/jay-work-4.jpg"
+    ]
+  },
+  "ale": {
+    "name": "Ale",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/ale.jpg",
+    "portfolio": [
+      "assets/barbers/ale-work-1.jpg",
+      "assets/barbers/ale-work-2.jpg",
+      "assets/barbers/ale-work-3.jpg",
+      "assets/barbers/ale-work-4.jpg"
+    ]
+  },
+  "kevin": {
+    "name": "Kevin",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/kevin.jpg",
+    "portfolio": [
+      "assets/barbers/kevin-work-1.jpg",
+      "assets/barbers/kevin-work-2.jpg",
+      "assets/barbers/kevin-work-3.jpg",
+      "assets/barbers/kevin-work-4.jpg"
+    ]
+  },
+  "bre": {
+    "name": "Bre",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/bre.jpg",
+    "portfolio": [
+      "assets/barbers/bre-work-1.jpg",
+      "assets/barbers/bre-work-2.jpg",
+      "assets/barbers/bre-work-3.jpg",
+      "assets/barbers/bre-work-4.jpg"
+    ]
+  },
+  "aj": {
+    "name": "AJ",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/aj.jpg",
+    "portfolio": [
+      "assets/barbers/aj-work-1.jpg",
+      "assets/barbers/aj-work-2.jpg",
+      "assets/barbers/aj-work-3.jpg",
+      "assets/barbers/aj-work-4.jpg"
+    ]
+  },
+  "rey": {
+    "name": "Rey",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/rey.jpg",
+    "portfolio": [
+      "assets/barbers/rey-work-1.jpg",
+      "assets/barbers/rey-work-2.jpg",
+      "assets/barbers/rey-work-3.jpg",
+      "assets/barbers/rey-work-4.jpg"
+    ]
+  },
+  "daniel": {
+    "name": "Daniel",
+    "role": "Chop Shop Barber",
+    "bio": null,
+    "booksy_url": null,
+    "booksy_widget_code": null,
+    "portrait": "assets/barbers/daniel.jpg",
+    "portfolio": [
+      "assets/barbers/daniel-work-1.jpg",
+      "assets/barbers/daniel-work-2.jpg",
+      "assets/barbers/daniel-work-3.jpg",
+      "assets/barbers/daniel-work-4.jpg"
+    ]
+  }
+}
